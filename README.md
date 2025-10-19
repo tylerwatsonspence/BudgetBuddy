@@ -34,13 +34,6 @@ This is a long-term project focused on applying **software engineering and objec
 
 ---
 
-## 🧪 Testing
-Unit testing (planned) using **xUnit**, covering:
-- Transaction handling  
-- Budget limit validation  
-- Report accuracy  
-
----
 
 ## ✍️ Author
 **Tyler Watson-Spence**  
@@ -59,7 +52,5 @@ This project will be released under the **MIT License** once development progres
 - Multi-user support  
 - Encrypted financial data storage  
 - Integration with open banking APIs  
-- Exporting reports to PDF or CSV  
 - Cloud sync across devices  
-
 ---
